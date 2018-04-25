@@ -1,0 +1,53 @@
+var friendsList = [
+
+  {
+    "name":"Monique",
+    "photo":"../friend_images/monique.jpg",
+    "scores":[
+        1,
+        2,
+        4,
+        3,
+        5,
+        4,
+        2,
+        4,
+        1,
+        4
+      ]
+  },
+  {
+    "name":"Alyssa",
+    "photo":"../friend_images/alyssa.jpg",
+    "scores":[
+        5,
+        5,
+        1,
+        1,
+        5,
+        1,
+        3,
+        3,
+        1,
+        3
+      ]
+  },
+  {
+    "name":"fkdmlf",
+    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "scores":[
+        4,
+        4,
+        1,
+        2,
+        3,
+        2,
+        2,
+        5,
+        1,
+        4
+      ]
+  }
+]
+
+module.exports = friendsList;
