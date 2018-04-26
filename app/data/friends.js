@@ -1,8 +1,8 @@
 var friendsList = [
 
   {
-    "name":"Monique",
-    "photo":"../friend_images/monique.jpg",
+    "name":"Louis",
+    "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9p0zCEhDHy18yXKKzRKXURr3aZRNlrlPlSBIvFzNSAangcpCscA",
     "scores":[
         1,
         2,
@@ -18,7 +18,7 @@ var friendsList = [
   },
   {
     "name":"Alyssa",
-    "photo":"../friend_images/alyssa.jpg",
+    "photo":"https://media.tenor.com/images/cbd4ca401e05acc7ceb0bc30790111f4/tenor.png",
     "scores":[
         5,
         5,
@@ -33,19 +33,19 @@ var friendsList = [
       ]
   },
   {
-    "name":"fkdmlf",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "name":"Sir James Dyson",
+    "photo":"https://cbsnews1.cbsistatic.com/hub/i/r/2011/09/15/81f39c00-a643-11e2-a3f0-029118418759/resize/620x465/5e64f3ca70445bfb16775a377a588b2d/heater.jpg",
     "scores":[
-        4,
-        4,
-        1,
+        3,
+        3,
+        3,
         2,
         3,
         2,
         2,
-        5,
-        1,
-        4
+        3,
+        3,
+        3
       ]
   }
 ]
